@@ -23,7 +23,7 @@ p {
 .section {
     border: 2px solid black;
     margin:10px;
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 .title {
